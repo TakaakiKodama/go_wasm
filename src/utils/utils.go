@@ -1,8 +1,9 @@
 package utils
 
 import (
-	"golang.org/x/net/html"
 	"syscall/js"
+
+	"golang.org/x/net/html"
 )
 
 type HTMLTag struct {

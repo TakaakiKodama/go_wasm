@@ -1,8 +1,9 @@
 package main
 
 import (
-	"golang.org/x/net/html"
 	"syscall/js"
+
+	"golang.org/x/net/html"
 
 	"github.com/TakaakiKodama/go_wasm/src/utils"
 )
